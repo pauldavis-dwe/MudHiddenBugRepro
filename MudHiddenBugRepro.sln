@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudHiddenBugRepro", "MudHiddenBugRepro\MudHiddenBugRepro.csproj", "{3B360766-01D5-498F-BF0A-B4E96E3EA235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudHiddenBugRepro.Tests", "MudHiddenBugRepro.Tests\MudHiddenBugRepro.Tests.csproj", "{6C37FE9C-EFA5-4AF4-A87F-596AE473F6E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B360766-01D5-498F-BF0A-B4E96E3EA235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B360766-01D5-498F-BF0A-B4E96E3EA235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B360766-01D5-498F-BF0A-B4E96E3EA235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B360766-01D5-498F-BF0A-B4E96E3EA235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C37FE9C-EFA5-4AF4-A87F-596AE473F6E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C37FE9C-EFA5-4AF4-A87F-596AE473F6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C37FE9C-EFA5-4AF4-A87F-596AE473F6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C37FE9C-EFA5-4AF4-A87F-596AE473F6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00242FB4-75E0-4C2A-ABCB-C9FE4D453A4A}
+	EndGlobalSection
+EndGlobal
